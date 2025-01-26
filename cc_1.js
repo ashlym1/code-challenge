@@ -38,5 +38,4 @@ let canEdit = isLoggedIn || false;  // Logical OR
 
 console.log("User Logged In:", isLoggedIn);
 console.log("Has Access:", hasAccess);
-console.log("Can Edit:", canEdit);
-
+console.log("Access Denied": User not found );
